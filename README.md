@@ -1,4 +1,4 @@
-- 👋 Привет, я QA Auto/Manual engineer @IgorSidorenko
+- 👋 Привет, я QA Auto/Manual Engineer @IgorSidorenko
 - 👀 Я интересуюсь QA Automation Tests and Manual Testing 
 - 🌱 В настоящее время изучаю Java,Selenium,Selenide,Junit5,Gradle_projects,Idea
 - 📫 Как со мной связаться sidgarri@gmail.com
