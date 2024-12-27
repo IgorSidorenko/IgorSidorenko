@@ -1,6 +1,6 @@
 - 👋 Привет, я QA Auto/Manual Engineer @IgorSidorenko
 - 👀 Я интересуюсь QA Automation Tests and Manual Testing 
-- 🌱 В настоящее время изучаю Java,Selenium,Selenide,Junit5,Gradle_projects,Idea
+- 🌱 В настоящее время изучаю Python,Pytest,Selene
 - 📫 Как со мной связаться sidgarri@gmail.com
 
 🌱 Прошел курс по автоматизированному тестированию в <a target="_blank" href="https://qa.guru/">qa.guru</a>
