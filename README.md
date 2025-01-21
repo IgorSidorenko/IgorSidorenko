@@ -7,7 +7,14 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorSidorenko)](https://github.com/anuraghazra/github-readme-stats)
 
-## Мой дипломный проект
+
+
+
+
+
+
+
+## Мой дипломный проект на Java
 
 ### UI тесты
 <h3><img src="img/logo/GitHub.svg" width="30" height="30"  alt="Github"/> <a target="_blank" href="https://github.com/IgorSidorenko/qa_guru_web">Github</a>
