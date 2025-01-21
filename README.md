@@ -1,5 +1,5 @@
 - 👋 Привет, я QA Automation/Fullstack QA @IgorSidorenko
-- 👀 Я интересуюсь QA Automation Tests and Manual Testing, SDET 
+- 👀 Я интересуюсь QA Automation Tests and Manual Testing, SDET Использую Python,Java,JS
 - 🌱 В настоящее время изучаю Python,Pytest,Selene,requests,docker,linux,
 - 📫 Как со мной связаться sidgarri@gmail.com
 
@@ -14,7 +14,7 @@
 
 
 
-## Мой дипломный проект на Java
+## Мой дипломный проект на Java QA.GURU
 
 ### UI тесты
 <h3><img src="img/logo/GitHub.svg" width="30" height="30"  alt="Github"/> <a target="_blank" href="https://github.com/IgorSidorenko/qa_guru_web">Github</a>
