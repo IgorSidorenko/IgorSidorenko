@@ -1,4 +1,4 @@
-- 👋 Привет, я QA Automation/Fullstack QA @IgorSidorenko
+- 👋 Привет, я QA Automation/Fullstack QA @igorsid
 - 👀 Я интересуюсь QA Automation Tests and Manual Testing, SDET Использую Python,Java,JS
 - 🌱 В настоящее время изучаю Python,Pytest,Selene,requests,docker,linux,
 - 📫 Как со мной связаться sidgarri@gmail.com
